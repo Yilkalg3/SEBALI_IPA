@@ -10,10 +10,8 @@ Mapping Irrigated areas using Sentinel and 2 fusion
 # 2 Installation requirements
 
 # 3 Workflow of Performance Assessment 
-## 3.1. Preprocess SEBALIGEE-S Data
 
-## 3.2. Calculate performance indicators
+## 3.1. performance indicators
 
-## 3.3. Water productivity
 
 # 
