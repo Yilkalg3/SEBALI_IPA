@@ -4,6 +4,7 @@ A framework to assess small-scale irrigation performance using Google Earth Engi
 # 1 Introduction
 
 # 2 Installation requirements
+  * pip install geemap
 
 # 3 Workflow of Performance Assessment 
 
